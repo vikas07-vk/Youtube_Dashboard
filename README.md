@@ -46,7 +46,8 @@ This dashboard helps in:
 
 ## 📷 Dashboard Snapshot  
 
-![YouTube Data Analytics Dashboard](./photo_2025-08-24_14-28-03.jpg)  
+![YouTube Data Analytics Dashboard](![photo_2025-08-24_14-28-03](https://github.com/user-attachments/assets/0efb3367-9eca-42db-be71-f8df56dd8466)
+)  
 
 ---
 
@@ -65,9 +66,8 @@ This dashboard helps in:
 💡 Data Science & Machine Learning Enthusiast | Analytics Explorer  
 
 📫 Connect with me:  
-- [LinkedIn](#)  
-- [GitHub](#)  
-- [Email](#)  
+- [LinkedIn](#https://www.linkedin.com/in/vikas-kumar22/)    
+- [Email](#vkviki0786@gmail.com)  
 
 ---
 
