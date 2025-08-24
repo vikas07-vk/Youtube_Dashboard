@@ -46,7 +46,9 @@ This dashboard helps in:
 
 ## 📷 Dashboard Snapshot  
 
-![YouTube Data Analytics Dashboard](![photo_2025-08-24_14-28-03](https://github.com/user-attachments/assets/27c6dc46-622a-4783-83c7-b70754c4b1f0))
+## 📷 Dashboard Snapshot  
+
+![YouTube Data Analytics Dashboard](https://github.com/user-attachments/assets/27c6dc46-622a-4783-83c7-b70754c4b1f0)
 
 ---
 
